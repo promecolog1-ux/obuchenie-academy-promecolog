@@ -5,7 +5,7 @@
 ## Стек
 
 - HTML5, CSS3, JavaScript (без фреймворков и сборщиков)
-- Шрифт [Inter](https://fonts.google.com/specimen/Inter) (Google Fonts)
+- Шрифты [Montserrat](https://fonts.google.com/specimen/Montserrat) (заголовки) и [Manrope](https://fonts.google.com/specimen/Manrope) (текст) — Google Fonts
 - Официальный логотип ЮЦПЭ: `assets/logo.svg`
 
 ## Структура проекта
